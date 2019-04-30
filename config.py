@@ -1,0 +1,5 @@
+CLIENT_ID = "vWsnCOF5z6UWgg"
+CLIENT_SECRET = "-4l8Ule1m3uVt1rdzwo2VlgHRuA"
+PASSWORD = "Math17!"
+USER_AGENT = "Math Loves You Bot v0.1"
+USERNAME = "math_loves_you-bot"
